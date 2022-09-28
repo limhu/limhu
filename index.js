@@ -28,15 +28,14 @@ const readme = `\
 ![](https://raw.githubusercontent.com/phh95/phh95/main/assets/github-contribution-grid-snake.svg)          
 
 ### About me      
-
-[![Angola peng's GitHub stats](https://github-readme-stats.vercel.app/api?username=phh95&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Angola peng's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phh95&layout=compact&hide_border=true&langs_count=10)
+[![LimHu's GitHub stats](https://github-readme-stats.vercel.app/api?username=limhu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![LimHu's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=limhu&layout=compact&hide_border=true&langs_count=10)
 
 I'm limhu, a software development engineer.    
 
 - 🔭 I’m currently striving for a better life in Guangzhou.     
 - 🤔 My blog 👉 https://blog.foryinuo.fun         
-- 💬 Ask me some questions about Effeciency Tools 👉 https://wx.zsxq.com/dweb2/index/group/88512424255582
+- 💬 Ask me some questions about Effeciency Tools 👉 
 - 📫 My E-mail: sunnyboyeliot@gmail.com          
 - 🔧 My Power Tools: </br>   
 ![](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-VS%20Code-blue)     
