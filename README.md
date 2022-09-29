@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-⏳ Year progress { ██████████████████████▁▁▁▁▁▁▁▁ } 74.27 %
+⏳ Year progress { ██████████████████████▁▁▁▁▁▁▁▁ } 74.29 %
 
 ---
 
-⏰ Updated on Thu, 29 Sep 2022 01:49:27 GMT
+⏰ Updated on Thu, 29 Sep 2022 03:29:00 GMT
 
 ---
 ### My GitHub Contributions    
 
-![](https://raw.githubusercontent.com/phh95/phh95/main/assets/github-contribution-grid-snake.svg)          
+![](https://raw.githubusercontent.com/limhu/limhu/main/assets/github-contribution-grid-snake.svg)          
 
 ### About me      
 [![LimHu's GitHub stats](https://github-readme-stats.vercel.app/api?username=limhu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -17,7 +17,7 @@
 
 I'm limhu, a software development engineer.    
 
-- 🔭 I’m currently striving for a better life in Guangzhou.     
+- 🔭 I’m currently striving for a better life in Wuhan.     
 - 🤔 My blog 👉 https://blog.foryinuo.fun         
 - 💬 Ask me some questions about Effeciency Tools 👉 
 - 📫 My E-mail: sunnyboyeliot@gmail.com          
